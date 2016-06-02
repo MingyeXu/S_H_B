@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/javaJDK">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="E:/Instructions/InstallationPackages/MySQL/mysql-connector-java-5.1.30-bin.jar"/>
+	<classpathentry kind="lib" path="E:/Instructions/InstallationPackages/eclipse-jee-luna-R-win32-x86_64/jars/solr-dataimportscheduler-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Instructions/solr-4.10.4/dist/solrj-lib/commons-io-2.3.jar"/>
+	<classpathentry kind="lib" path="E:/Instructions/solr-4.10.4/dist/solrj-lib/httpclient-4.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/Instructions/solr-4.10.4/dist/solrj-lib/httpcore-4.3.jar"/>
+	<classpathentry kind="lib" path="E:/Instructions/solr-4.10.4/dist/solrj-lib/httpmime-4.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/Instructions/solr-4.10.4/dist/solrj-lib/noggit-0.5.jar"/>
+	<classpathentry kind="lib" path="E:/Instructions/solr-4.10.4/dist/solrj-lib/slf4j-api-1.7.6.jar"/>
+	<classpathentry kind="lib" path="E:/Instructions/solr-4.10.4/dist/solrj-lib/wstx-asl-3.2.7.jar"/>
+	<classpathentry kind="lib" path="E:/Instructions/solr-4.10.4/dist/solrj-lib/zookeeper-3.4.6.jar"/>
+	<classpathentry kind="lib" path="E:/Instructions/solr-4.10.4/dist/test-framework/lucene-libs/lucene-test-framework-4.10.4.jar"/>
+	<classpathentry kind="lib" path="E:/Instructions/InstallationPackages/eclipse-jee-luna-R-win32-x86_64/jars/lib/antlr-runtime-3.5.jar"/>
+	<classpathentry kind="lib" path="E:/Instructions/InstallationPackages/eclipse-jee-luna-R-win32-x86_64/jars/lib/commons-io-2.3.jar"/>
+	<classpathentry kind="lib" path="E:/Instructions/InstallationPackages/eclipse-jee-luna-R-win32-x86_64/jars/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Instructions/InstallationPackages/eclipse-jee-luna-R-win32-x86_64/jars/lib/httpclient-4.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/Instructions/InstallationPackages/eclipse-jee-luna-R-win32-x86_64/jars/lib/httpcore-4.3.jar"/>
+	<classpathentry kind="lib" path="E:/Instructions/InstallationPackages/eclipse-jee-luna-R-win32-x86_64/jars/lib/httpmime-4.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/Instructions/InstallationPackages/eclipse-jee-luna-R-win32-x86_64/jars/lib/IKAnalyzer2012FF_u1.jar"/>
+	<classpathentry kind="lib" path="E:/Instructions/InstallationPackages/eclipse-jee-luna-R-win32-x86_64/jars/lib/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="E:/Instructions/InstallationPackages/eclipse-jee-luna-R-win32-x86_64/jars/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="E:/Instructions/InstallationPackages/eclipse-jee-luna-R-win32-x86_64/jars/lib/lucene-core-4.10.4.jar"/>
+	<classpathentry kind="lib" path="E:/Instructions/InstallationPackages/eclipse-jee-luna-R-win32-x86_64/jars/lib/lucene-misc-4.10.4.jar"/>
+	<classpathentry kind="lib" path="E:/Instructions/InstallationPackages/eclipse-jee-luna-R-win32-x86_64/jars/lib/lucene-queries-4.10.4.jar"/>
+	<classpathentry kind="lib" path="E:/Instructions/InstallationPackages/eclipse-jee-luna-R-win32-x86_64/jars/lib/slf4j-api-1.7.6.jar"/>
+	<classpathentry kind="lib" path="E:/Instructions/InstallationPackages/eclipse-jee-luna-R-win32-x86_64/jars/lib/slf4j-log4j12-1.7.6.jar"/>
+	<classpathentry kind="lib" path="E:/Instructions/InstallationPackages/eclipse-jee-luna-R-win32-x86_64/jars/lib/solr-core-4.10.4.jar"/>
+	<classpathentry kind="lib" path="E:/Instructions/InstallationPackages/eclipse-jee-luna-R-win32-x86_64/jars/lib/solr-solrj-4.10.4.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
